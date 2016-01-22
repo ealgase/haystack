@@ -110,3 +110,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+else:
+    print('Please don't run as a subprocess.')
